@@ -1,1 +1,2 @@
 # Autonomous-Parking-Lot-System
+This repository hosts the code for an Autonomous Parking Lot System, designed to streamline parking management. The project consists of two main modules: one for detecting vacant parking spots and another for Automatic Number Plate Recognition (ANPR). The vacancy detection module uses computer vision techniques to identify and signal open parking spaces in real-time. The ANPR module captures and processes vehicle license plates for entry and exit monitoring, enhancing security and operational efficiency.
